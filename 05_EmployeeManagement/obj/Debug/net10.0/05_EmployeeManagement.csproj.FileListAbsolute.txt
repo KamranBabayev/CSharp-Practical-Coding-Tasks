@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\bin\Debug\net10.0\05_EmployeeManagement.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\bin\Debug\net10.0\05_EmployeeManagement.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\bin\Debug\net10.0\05_EmployeeManagement.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\bin\Debug\net10.0\05_EmployeeManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\bin\Debug\net10.0\05_EmployeeManagement.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\05_EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\05_EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\05_EmployeeManagement.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\05_EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\05_EmployeeManagement.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\05_EmployeeManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\refint\05_EmployeeManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\05_EmployeeManagement.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\05_EmployeeManagement.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\ref\05_EmployeeManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\05_EmployeeManagement\obj\Debug\net10.0\05_Emplo.4F5B1827.Up2Date

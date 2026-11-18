@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01_StudentManagement/01_StudentManagement.csproj" />
+  <Project Path="02_UserManagement/02_UserManagement.csproj" Id="de832be0-0a76-4734-84c1-4f137853ff2c" />
+  <Project Path="03_ExtensionMethods/03_ExtensionMethods.csproj" Id="9411d143-3a0e-4181-850e-8de2f8b527d0" />
+  <Project Path="04_LibraryManagement/04_LibraryManagement.csproj" Id="c762c248-ee4d-4227-96dc-9cd86375916d" />
+  <Project Path="05_EmployeeManagement/05_EmployeeManagement.csproj" Id="3e4e9b0a-ea5d-4969-935b-0a5a6efa3adf" />
+  <Project Path="06_TemperatureConverter/06_TemperatureConverter.csproj" Id="c8b2fde4-37ff-45f1-b932-d209b7eaaf83" />
+</Solution>

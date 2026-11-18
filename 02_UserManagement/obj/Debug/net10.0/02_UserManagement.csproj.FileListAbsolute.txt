@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\bin\Debug\net10.0\02_UserManagement.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\bin\Debug\net10.0\02_UserManagement.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\bin\Debug\net10.0\02_UserManagement.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\bin\Debug\net10.0\02_UserManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\bin\Debug\net10.0\02_UserManagement.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\02_UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\02_UserManagement.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\02_UserManagement.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\02_UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\02_UserManagement.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\02_UserManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\refint\02_UserManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\02_UserManagement.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\02_UserManagement.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\ref\02_UserManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\02_UserManagement\obj\Debug\net10.0\02_UserM.CDA62667.Up2Date

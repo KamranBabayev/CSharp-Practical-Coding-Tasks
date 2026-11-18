@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\bin\Debug\net10.0\06_TemperatureConverter.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\bin\Debug\net10.0\06_TemperatureConverter.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\bin\Debug\net10.0\06_TemperatureConverter.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\bin\Debug\net10.0\06_TemperatureConverter.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\bin\Debug\net10.0\06_TemperatureConverter.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\06_TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\06_TemperatureConverter.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\06_TemperatureConverter.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\06_TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\06_TemperatureConverter.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\06_TemperatureConverter.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\refint\06_TemperatureConverter.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\06_TemperatureConverter.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\06_TemperatureConverter.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\ref\06_TemperatureConverter.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\06_TemperatureConverter\obj\Debug\net10.0\06_Tempe.B4BFB192.Up2Date

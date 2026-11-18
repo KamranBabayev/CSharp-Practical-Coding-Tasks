@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\bin\Debug\net10.0\04_LibraryManagement.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\bin\Debug\net10.0\04_LibraryManagement.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\bin\Debug\net10.0\04_LibraryManagement.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\bin\Debug\net10.0\04_LibraryManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\bin\Debug\net10.0\04_LibraryManagement.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\04_LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\04_LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\04_LibraryManagement.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\04_LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\04_LibraryManagement.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\04_LibraryManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\refint\04_LibraryManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\04_LibraryManagement.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\04_LibraryManagement.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\ref\04_LibraryManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\04_LibraryManagement\obj\Debug\net10.0\04_Libra.B7D5220F.Up2Date

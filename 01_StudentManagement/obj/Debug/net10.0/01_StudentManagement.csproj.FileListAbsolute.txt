@@ -1,0 +1,16 @@
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\bin\Debug\net10.0\01_StudentManagement.exe
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\bin\Debug\net10.0\01_StudentManagement.deps.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\bin\Debug\net10.0\01_StudentManagement.runtimeconfig.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\bin\Debug\net10.0\01_StudentManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\bin\Debug\net10.0\01_StudentManagement.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\01_StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\01_StudentManagement.AssemblyInfoInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\01_StudentManagement.AssemblyInfo.cs
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\01_StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\01_StudentManagement.sourcelink.json
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\01_StudentManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\refint\01_StudentManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\01_StudentManagement.pdb
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\01_StudentManagement.genruntimeconfig.cache
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\ref\01_StudentManagement.dll
+C:\Users\kamran\OneDrive\İş masası\myApp\C# Practical Coding Tasks — OOP & Logic\01_StudentManagement\obj\Debug\net10.0\01_Stude.BF3AA672.Up2Date
